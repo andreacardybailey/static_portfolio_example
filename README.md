@@ -1,0 +1,1 @@
+A simple example of how to serve up a static page using Sinatra, and deploying to Heroku.
